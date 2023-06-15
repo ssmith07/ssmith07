@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ssmith07
-- 👀 I’m interested in programming and cryptocurrency
-- 🌱 I’m currently learning python javascript lua
-- 💞️ I’m looking to collaborate on family
-- 📫 How to reach me (not yet)
+- 👀 I like  programming and motorsports!
+- 🌱 I’m currently learning python, javascript and lua!
+- 💞️ I’m looking to forward to be a py and js developer!
+- 📫 How to reach me (N/A).
 
 <!---
 ssmith07/ssmith07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
